@@ -165,7 +165,7 @@ namespace Spargo.Maksim.Kulebyakin.Test.Task
             Console.WriteLine("6. Удалить аптеку.");
             Console.WriteLine("7. Удалить склад.");
             Console.WriteLine("8. Удалить партию.");
-            Console.WriteLine("9. ");
+            Console.WriteLine("9. Проверить наличие товара в аптеке.");
             Console.WriteLine("0. Выход");
             Console.WriteLine("------");
             int choice = 0;
